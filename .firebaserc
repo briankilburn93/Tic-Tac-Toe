@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoe-ff76e": {
+      "hosting": {
+        "myapp": [
+          "tictactoe-ff76e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoe-ff76e"
+  }
+}
